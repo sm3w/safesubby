@@ -273,7 +273,6 @@ h3 {
     font-weight: 600;
 }
 .btn-cont {
-
 }
 .smallsep {
 	background: #aaa;
@@ -473,4 +472,9 @@ td {
     60% { -o-transform: translate(-15px); }
     80% { -o-transform: translate(8px); }
     100% { -o-origin-transform: translate(0px); }
+}
+
+
+.inline-m-icon {
+ vertical-align: bottom;    
 }
